@@ -7,4 +7,4 @@ https://untappd.com/api/docs#authentication
 
 Following from that, the ability to get a user's own info is the first priority
 
-Here's some extra text
+API key application is currently under review by the Untappd Team
